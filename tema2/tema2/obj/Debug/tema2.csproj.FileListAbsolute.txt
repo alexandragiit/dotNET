@@ -1,0 +1,9 @@
+C:\Users\x\source\repos\tema2\tema2\bin\Debug\tema2.exe.config
+C:\Users\x\source\repos\tema2\tema2\bin\Debug\tema2.exe
+C:\Users\x\source\repos\tema2\tema2\bin\Debug\tema2.pdb
+C:\Users\x\source\repos\tema2\tema2\obj\Debug\tema2.csprojAssemblyReference.cache
+C:\Users\x\source\repos\tema2\tema2\obj\Debug\tema2.Form1.resources
+C:\Users\x\source\repos\tema2\tema2\obj\Debug\tema2.Properties.Resources.resources
+C:\Users\x\source\repos\tema2\tema2\obj\Debug\tema2.csproj.GenerateResource.cache
+C:\Users\x\source\repos\tema2\tema2\obj\Debug\tema2.exe
+C:\Users\x\source\repos\tema2\tema2\obj\Debug\tema2.pdb

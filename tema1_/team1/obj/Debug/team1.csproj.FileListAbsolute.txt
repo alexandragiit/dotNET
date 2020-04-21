@@ -1,5 +1,0 @@
-C:\Users\Alexandra\source\repos\team1\team1\bin\Debug\team1.dll
-C:\Users\Alexandra\source\repos\team1\team1\bin\Debug\team1.pdb
-C:\Users\Alexandra\source\repos\team1\team1\obj\Debug\team1.csprojAssemblyReference.cache
-C:\Users\Alexandra\source\repos\team1\team1\obj\Debug\team1.dll
-C:\Users\Alexandra\source\repos\team1\team1\obj\Debug\team1.pdb

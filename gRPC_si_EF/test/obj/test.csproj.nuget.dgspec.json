@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Alexandra\\source\\repos\\grpc-post-comment\\test\\test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Alexandra\\source\\repos\\grpc-post-comment\\PostComment\\PostComment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Alexandra\\source\\repos\\grpc-post-comment\\PostComment\\PostComment.csproj",
+        "projectName": "PostComment",
+        "projectPath": "C:\\Users\\Alexandra\\source\\repos\\grpc-post-comment\\PostComment\\PostComment.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Alexandra\\source\\repos\\grpc-post-comment\\test\\test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Alexandra\\source\\repos\\grpc-post-comment\\test\\test.csproj",
+        "projectName": "test",
+        "projectPath": "C:\\Users\\Alexandra\\source\\repos\\grpc-post-comment\\test\\test.csproj",
+        "packagesPath": "C:\\Users\\Alexandra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alexandra\\source\\repos\\grpc-post-comment\\test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alexandra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Alexandra\\source\\repos\\grpc-post-comment\\PostComment\\PostComment.csproj": {
+                "projectPath": "C:\\Users\\Alexandra\\source\\repos\\grpc-post-comment\\PostComment\\PostComment.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

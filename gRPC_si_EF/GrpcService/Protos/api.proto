@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcService";
+
+ service Api{
+    rpc AddPost (Post) returns (Response);
+ }
+
+ message Comment{
+    int32 commentId = 1;
+    string text = 2;
+    int32 postPostId = 3;
+    Post post = 4;
+ }
+
+ message Post{
+    int32 postId = 1;
+    string description = 2;
+    string domain = 3;
+    string date = 4;
+    repeated Comment comments = 5;
+ }
+
+ message LookupId{
+     int32 id = 1;
+ }
+
+ message Response{
+     bool resp = 1; 
+ }

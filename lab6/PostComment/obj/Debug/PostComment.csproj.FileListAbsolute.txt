@@ -1,0 +1,11 @@
+C:\Users\Alexandra\source\repos\git\dotNET\lab6\PostComment\bin\Debug\PostComment.dll.config
+C:\Users\Alexandra\source\repos\git\dotNET\lab6\PostComment\bin\Debug\PostComment.dll
+C:\Users\Alexandra\source\repos\git\dotNET\lab6\PostComment\bin\Debug\PostComment.pdb
+C:\Users\Alexandra\source\repos\git\dotNET\lab6\PostComment\bin\Debug\EntityFramework.dll
+C:\Users\Alexandra\source\repos\git\dotNET\lab6\PostComment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alexandra\source\repos\git\dotNET\lab6\PostComment\bin\Debug\EntityFramework.xml
+C:\Users\Alexandra\source\repos\git\dotNET\lab6\PostComment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alexandra\source\repos\git\dotNET\lab6\PostComment\obj\Debug\PostComment.csprojAssemblyReference.cache
+C:\Users\Alexandra\source\repos\git\dotNET\lab6\PostComment\obj\Debug\PostComment.csproj.CopyComplete
+C:\Users\Alexandra\source\repos\git\dotNET\lab6\PostComment\obj\Debug\PostComment.dll
+C:\Users\Alexandra\source\repos\git\dotNET\lab6\PostComment\obj\Debug\PostComment.pdb

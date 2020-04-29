@@ -25,7 +25,7 @@ namespace ClientPostComment
             dgp.DataSource = posts;
             dgp.Columns[0].Width = 0;
             if (dgp.Rows.Count > 0)
-                dgc.DataSource = posts[0].
+                dgc.DataSource = posts[0].Comments;
         }
         private static PostComment.Post[] LoadPosts()
         {

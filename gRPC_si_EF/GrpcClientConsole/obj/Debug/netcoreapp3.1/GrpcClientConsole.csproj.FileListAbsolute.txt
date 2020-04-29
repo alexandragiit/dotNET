@@ -1,0 +1,16 @@
+C:\Users\Alexandra\source\repos\grpc-post-comment\GrpcClientConsole\bin\Debug\netcoreapp3.1\GrpcClientConsole.exe
+C:\Users\Alexandra\source\repos\grpc-post-comment\GrpcClientConsole\obj\Debug\netcoreapp3.1\GrpcClientConsole.AssemblyInfoInputs.cache
+C:\Users\Alexandra\source\repos\grpc-post-comment\GrpcClientConsole\obj\Debug\netcoreapp3.1\GrpcClientConsole.AssemblyInfo.cs
+C:\Users\Alexandra\source\repos\grpc-post-comment\GrpcClientConsole\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\Alexandra\source\repos\grpc-post-comment\GrpcClientConsole\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\Alexandra\source\repos\grpc-post-comment\GrpcClientConsole\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\Alexandra\source\repos\grpc-post-comment\GrpcClientConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alexandra\source\repos\grpc-post-comment\GrpcClientConsole\obj\Debug\netcoreapp3.1\GrpcClientConsole.csproj.CopyComplete
+C:\Users\Alexandra\source\repos\grpc-post-comment\GrpcClientConsole\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Alexandra\source\repos\grpc-post-comment\GrpcClientConsole\bin\Debug\netcoreapp3.1\GrpcClientConsole.deps.json
+C:\Users\Alexandra\source\repos\grpc-post-comment\GrpcClientConsole\bin\Debug\netcoreapp3.1\GrpcClientConsole.runtimeconfig.json
+C:\Users\Alexandra\source\repos\grpc-post-comment\GrpcClientConsole\bin\Debug\netcoreapp3.1\GrpcClientConsole.runtimeconfig.dev.json
+C:\Users\Alexandra\source\repos\grpc-post-comment\GrpcClientConsole\bin\Debug\netcoreapp3.1\GrpcClientConsole.dll
+C:\Users\Alexandra\source\repos\grpc-post-comment\GrpcClientConsole\bin\Debug\netcoreapp3.1\GrpcClientConsole.pdb
+C:\Users\Alexandra\source\repos\grpc-post-comment\GrpcClientConsole\obj\Debug\netcoreapp3.1\GrpcClientConsole.dll
+C:\Users\Alexandra\source\repos\grpc-post-comment\GrpcClientConsole\obj\Debug\netcoreapp3.1\GrpcClientConsole.pdb

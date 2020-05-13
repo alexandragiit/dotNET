@@ -80,11 +80,5 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\PostComment\PostComment.csproj">
-      <Project>{805d125f-54c3-4e1c-a29c-90393df07839}</Project>
-      <Name>PostComment</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

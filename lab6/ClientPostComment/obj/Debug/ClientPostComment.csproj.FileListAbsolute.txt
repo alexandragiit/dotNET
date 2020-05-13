@@ -5,11 +5,5 @@ C:\Users\Alexandra\source\repos\git\dotNET\lab6\ClientPostComment\obj\Debug\Clie
 C:\Users\Alexandra\source\repos\git\dotNET\lab6\ClientPostComment\bin\Debug\ClientPostComment.exe.config
 C:\Users\Alexandra\source\repos\git\dotNET\lab6\ClientPostComment\bin\Debug\ClientPostComment.exe
 C:\Users\Alexandra\source\repos\git\dotNET\lab6\ClientPostComment\bin\Debug\ClientPostComment.pdb
-C:\Users\Alexandra\source\repos\git\dotNET\lab6\ClientPostComment\bin\Debug\PostComment.dll
-C:\Users\Alexandra\source\repos\git\dotNET\lab6\ClientPostComment\bin\Debug\EntityFramework.dll
-C:\Users\Alexandra\source\repos\git\dotNET\lab6\ClientPostComment\bin\Debug\PostComment.pdb
-C:\Users\Alexandra\source\repos\git\dotNET\lab6\ClientPostComment\bin\Debug\PostComment.dll.config
-C:\Users\Alexandra\source\repos\git\dotNET\lab6\ClientPostComment\bin\Debug\EntityFramework.xml
-C:\Users\Alexandra\source\repos\git\dotNET\lab6\ClientPostComment\obj\Debug\ClientPostComment.csproj.CopyComplete
 C:\Users\Alexandra\source\repos\git\dotNET\lab6\ClientPostComment\obj\Debug\ClientPostComment.exe
 C:\Users\Alexandra\source\repos\git\dotNET\lab6\ClientPostComment\obj\Debug\ClientPostComment.pdb

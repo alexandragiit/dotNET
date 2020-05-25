@@ -1,0 +1,44 @@
+﻿@page
+@model RazorPagesPhotos.PhotosModel
+@{
+    ViewData["Title"] = "Photos";
+}
+
+<h1>Media</h1>
+@if (Model.result.Count == 0)
+{
+    <p>No results found</p>
+}
+else
+{
+<ul>
+
+    @for (var i = 0; i < Model.result.Count; i++)
+    {
+    
+        <img width="300" src="@Model.b64[i]" />
+        <li>@Html.DisplayFor(modelItem => Model.result[i].type)</li>
+        <p>@Html.DisplayFor(modelItem => Model.result[i].added_at)</p>
+        @if (Model.atr[i].Count == 0)
+        {
+            <p>No atributes found</p>
+        }
+        else
+        {
+            <ul>
+                @for (var j = 0; j < Model.atr[i].Count; j++)
+                {
+
+                    @if (Model.atr[i][j] != " ")
+                    {
+                        <li>@Model.atr[i][j]</li>
+                    }
+                }
+            </ul>
+        }
+
+
+    }
+</ul>
+}
+

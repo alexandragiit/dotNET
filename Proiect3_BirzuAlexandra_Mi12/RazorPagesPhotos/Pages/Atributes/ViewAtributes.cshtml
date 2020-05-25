@@ -1,0 +1,20 @@
+﻿@page 
+@model RazorPagesPhotos.ViewAtributesModel
+@{
+    ViewData["Title"] = "ViewAtributes";
+}
+
+<h1>Atributes List</h1>
+
+@if (Model.atributes.Count == 0)
+{
+    <p>No atributes found</p>
+}
+else
+{
+
+    @foreach (var item in Model.atributes)
+    {
+       <a asp-page="/Resources/Photos" asp-route-name ="@item" >@item</a><br>
+    }
+}

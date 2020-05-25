@@ -1,0 +1,62 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Search for media by atributes</h1>
+    <form>
+        <p>
+            Title: <input type="text" asp-for="SearchString" />
+            <input type="submit" value="search" />
+        </p>
+    </form>
+
+</div>
+
+<h3>Media</h3>
+<div class="flex-xl-wrap">
+    @if (Model.result.Count == 0)
+    {
+        <p>No results found</p>
+    }
+    else
+    {
+
+        <p>Au fost gasite @Model.result.Count rezultate</p>
+        <ul>
+
+
+            @for (var i = 0; i < Model.result.Count; i++)
+            {
+                <img width="300" src="@Model.b64[i]" />
+
+
+
+                <li>@Html.DisplayFor(modelItem => Model.result[i].type)</li>
+                <p>@Html.DisplayFor(modelItem => Model.result[i].added_at)</p>
+
+                @if (Model.atr[i].Count == 0)
+                {
+                    <p>No atributes found</p>
+                }
+                else
+                {
+                    <ul>
+                        @for (var j = 0; j < Model.atr[i].Count; j++)
+                        {
+
+                            @if (Model.atr[i][j] != " ")
+                            {
+                                <li>@Model.atr[i][j]</li>
+                            }
+                        }
+                    </ul>
+                }
+
+
+            }
+        </ul>
+    }
+</div>
